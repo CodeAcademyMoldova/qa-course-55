@@ -1,0 +1,34 @@
+Descriere: 
+Utilizatorul poate aplica la proiecte
+Prioritate:
+3/10
+Tipul Test Case-ului:
+UI Testing, Internationalization  
+Statut de automatizare:
+Nu 
+Precondiții:
+•	dispozitiv (conectat la rețeaua de alimentare sau baterie)
+•	internet 
+•	sistem de operare 
+•	Browser
+Mediu de testare:
+“www.utest.com” 
+Pașii de testare:
+1.	Pornește dispozitivul 
+2.	Conectează-te la rețeua de internet
+3.	Deschide browser-ul 
+4.	Tapează “www.utest.com” în bara de căutare
+5.	Apasă tasta “Enter” 
+6.	Localizează butonul  “Projects” 
+Datele de test:
+•	“www.utest.com” în calitate de adresă de producție
+Rezultatele așteptate:
+Utilizatorul poate aplica la proiecte
+Rezultatul actual:
+Utilizatorul nu poate aplica la proiecte
+Atașament:
+Image1.jpg
+Încercări de a repeta:
+0 
+Severitate: 1/10
+Prioritate: 3/10
