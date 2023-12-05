@@ -1,0 +1,17 @@
+             Bug Report
+Descriere:Siteul www.utest.com nu poate fi urmarit prin apasarea iconitei de facebook.
+Pre-conditii:dispozitiv conectat la retea de alimentare si internet,sistem de operare,browser.
+Enviroment:www.utest.com
+Pasii de reproducere:
+-porneste dispozitivul
+-deschide browserul
+-tapeaza in bara de cautare"www.utest.com"
+-apasa Enter
+-gaseste butonul "follow on facebook"
+-clik pe butonul "follow on facebook"
+Rezultatul final:Utilizatorul nu poate urmari siteul www.utest.com prin intermediul prin intermediul facebook
+Rezultatul asteptat:Utilizatorul nu poate urmari siteul www.utest.com prin intermediul prin intermediul facebook
+Atasament:1.jpg
+Atempt to repeat :1
+Severitate:7/10
+Prioritate:7/10
