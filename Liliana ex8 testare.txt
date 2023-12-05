@@ -1,0 +1,47 @@
+Descriere: Butonul "Projects" nu este functional
+
+Preconditii:
+-dispozitiv (conectat la reteaua de alimentare sau baterie)
+-internet
+-sistem de operare
+-browser
+
+Mediu de testare:
+”www.utest.com”
+
+Pasii de reproducere:
+
+Porneste dispozitivul
+
+Conecteaza-te la reteaua de internet
+
+Deschide browserul 
+
+Tapeaza “www.utest.com “ in bara de cautare
+
+Apeasa "Enter"
+
+Localizeaza butonul “Projects”
+
+Click pe butonul "Projects"
+
+
+Datele de test:
+
+www.utest.com, in calitate de adresa de productie
+
+Rezultat asteptat:
+
+Butonul "Projects" este functional si ne redirectioneaza pe pagina de proiecte
+
+Rezultat actual:
+
+Butonul "Projects" nu este functional si nu ne redirectioneaza pe pagina de proiecte
+
+Atasament: 1.jpg
+
+Incercari de a repeta: 2
+
+Prioritate: Medie
+
+Severitate: 9/10
