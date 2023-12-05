@@ -1,0 +1,45 @@
+Bug Report
+www.utest.com
+
+Test Incident ID: 01
+
+Summary: "Issues" element is not clickable 
+
+Description: "Issues" element is not clickable
+
+Pre-conditions:
+- device connected to a power source or battery
+- access to Internet
+- operating system
+- browser
+- existent account and logged in
+
+Environment: www.utest.com set in English
+
+Steps to reproduce:
+1. Turn on the device
+2. Connect to the Internet
+3. Open the browser
+4. Type "www.utest.com"
+5. Press "Enter" button
+6. Locate the dropdwon button near "Prolects" in the center left side of the page
+7. Click on the dropdwon button near "Prolects" in the center left side of the page
+8. Locate the "Issues" element
+9. Click on the "Issues" element
+
+Expected result: "Issues" element is clickable 
+
+Actual result: "Issues" element is not clickable 
+
+Attachment: bug01.png
+
+Attempts to repeat: 0
+
+Name of QA: Nadejda Porubin 
+Developer: Eugen Panfil
+
+Date: 05.12.2023
+Time: 20:56
+	
+Severity: 10/10
+Priority: 10/10
